@@ -1,5 +1,10 @@
 package com.mypattern.principle.dip;
 
+/**
+ * 
+ * @author DeBen
+ *
+ */
 public class Client {
 
 	public static void main(String[] args) {

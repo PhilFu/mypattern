@@ -1,1 +1,4 @@
 ISP: Interface Segregation Principle
+
+Client should not be forced to depend upon interfaces that they don't use.
+The dependency of one class to another one should depend on the smallest possible interface.
